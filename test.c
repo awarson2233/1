@@ -1,4 +1,5 @@
 #include <stdio.h>
+int g = 1;
 int main ()
 {
     int age = 20;
