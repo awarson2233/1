@@ -1,3 +1,4 @@
+#include "function.c"
  extern int a;
 #include <stdio.h>
 int main ()
